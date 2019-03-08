@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-baseurl: /ai
+baseurl: /ai # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 permalink: /:title:output_ext
 
 collections:

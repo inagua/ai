@@ -2,6 +2,6 @@
 
 ## Glossary
 
-- [Computer vision](/glossary/computer-vision.html)
-- [Deep learning](/glossary/deep-learning.html)
-- [Neural network](/glossary/neural-network.html)
+- [Computer vision](/ai/glossary/computer-vision.html)
+- [Deep learning](/ai/glossary/deep-learning.html)
+- [Neural network](/ai/glossary/neural-network.html)
