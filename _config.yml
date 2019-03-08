@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+permalink: /:title:output_ext
+
+collections:
+  glossary:
+    output: true
+    permalink: /:path
