@@ -4,4 +4,5 @@
 
 - [Computer vision](/ai/glossary/computer-vision.html)
 - [Deep learning](/ai/glossary/deep-learning.html)
+- [Machine learning](/ai/glossary/machine-learning.html)
 - [Neural network](/ai/glossary/neural-network.html)
