@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-baseurl: https://inagua.github.io/ai
+baseurl: /ai
 permalink: /:title:output_ext
 
 collections:
