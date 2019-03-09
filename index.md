@@ -17,5 +17,6 @@
 
 ## Tools
 
+- [Google Colaboratory](glossary/google-colaboratory.html)
 - [Keras](/ai/glossary/keras.html)
 - [TensorFlow](/ai/glossary/tensorflow.html)

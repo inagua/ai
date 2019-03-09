@@ -9,6 +9,7 @@ categories: tool
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/220px-TensorFlowLogo.svg.png)
 
 - [https://www.tensorflow.org](https://www.tensorflow.org)
+- [http://playground.tensorflow.org](http://playground.tensorflow.org)
 
 > TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, 
 > libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy 
@@ -32,6 +33,7 @@ See also [TensorFlow.js](https://www.tensorflow.org/js) include:
 ## Python
 
 - [The Hello World of Deep Learning with Neural Networks](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=oxNzL4lS2Gui) - Google Colab
+- You can use [Google Colab](google-colaboratory.html) to write and run Python code on from the cloud.
 
 ```py
 import tensorflow as tf
@@ -43,7 +45,7 @@ from tensorflow import keras
 #  - of 1 Dense layer (aka connected neurons)
 #  - having 1 neuron, 
 #  - and the input shape to it is just 1 value.
-model = tf.keras.Sequential([keras.layers.Dense(units=1, input_shape=[1])])
+model = keras.Sequential([keras.layers.Dense(units=1, input_shape=[1])])
 
 # Compile the neural network with 2 functions
 #  - The *optimizer* to make another guess ('Stochastic Gradient Descent' here)
@@ -59,7 +61,9 @@ model.fit(xs, ys, epochs=500)
 print(model.predict([10.0]))
 ```
 
-See also:
+
+## See also
+
 - [Epoch](epoch.html) 
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)
