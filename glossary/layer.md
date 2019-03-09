@@ -1,7 +1,6 @@
 ---
 layout: glossary
-title:  "Neural network"
-date:   2014-10-18 12:58:29
+title:  "Layer"
 categories_: jekyll update
 ---
 
