@@ -10,7 +10,8 @@
 - [Machine learning](/ai/glossary/machine-learning.html)
 - [Neural network](/ai/glossary/neural-network.html)
 
-## Tools
+
+##Tools
 
 - [Keras](/ai/glossary/keras.html)
-- [TensorFlow](/ai/glossary/tensor-flow.html)
+- [TensorFlow](/ai/glossary/tensorflow.html)
