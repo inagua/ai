@@ -14,3 +14,9 @@ The [layers](layer.html) of a neural networks perform multi-step, separable tran
 The [classifiers](classifier.html) are used to give __labels__.
 
 See sample of code using [TensorFlow](tensorflow.html).
+
+
+See also:
+- [Epoch](epoch.html) 
+- [Loss function](loss.html) 
+- [Optimizer](optimizer.html)
