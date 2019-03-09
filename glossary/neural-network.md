@@ -1,7 +1,6 @@
 ---
-layout: glossary
+layout_: post
 title:  "Neural network"
-date:   2014-10-18 12:58:29
 categories_: jekyll update
 ---
 

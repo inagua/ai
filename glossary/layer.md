@@ -1,5 +1,5 @@
 ---
-layout: glossary
+layout_: post
 title:  "Layer"
 categories_: jekyll update
 ---
