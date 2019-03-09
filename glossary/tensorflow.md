@@ -31,7 +31,7 @@ See also [TensorFlow.js](https://www.tensorflow.org/js) include:
 
 ## Python
 
-- [The Hello World of Deep Learning with Neural Networks](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=oxNzL4lS2Gui) | Google Colab
+- [The Hello World of Deep Learning with Neural Networks](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=oxNzL4lS2Gui) - Google Colab
 
 ```py
 import tensorflow as tf
