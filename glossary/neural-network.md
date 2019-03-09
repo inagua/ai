@@ -12,3 +12,5 @@ neural systems.
 The [layers](layer.html) of a neural networks perform multi-step, separable transformations of the data representation.
 
 The [classifiers](classifier.html) are used to give __labels__.
+
+See sample of code using [TensorFlow](tensorflow.html).
