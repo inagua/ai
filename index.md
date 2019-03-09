@@ -10,6 +10,7 @@
 - [Layer](/ai/glossary/layer.html)
 - [Loss function](/ai/glossary/loss.html) 
 - [Machine learning](/ai/glossary/machine-learning.html)
+- [MNIST](/ai/glossary/mnist.html) 
 - [Neural network](/ai/glossary/neural-network.html)
 - [Optimizer](/ai/glossary/optimizer.html)
 
