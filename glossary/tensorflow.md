@@ -61,6 +61,48 @@ model.fit(xs, ys, epochs=500)
 print(model.predict([10.0]))
 ```
 
+### MNIST - Computer vision problem
+
+See [MNIST](mnist.html)
+
+```py
+import tensorflow as tf
+print(tf.__version__)
+
+mnist = tf.keras.datasets.fashion_mnist
+
+(training_images, training_labels), (test_images, test_labels) = mnist.load_data()
+
+import matplotlib.pyplot as plt
+plt.imshow(training_images[10])
+print(training_labels[10])
+print(training_images[10])
+
+training_images  = training_images / 255.0
+test_images = test_images / 255.0
+
+model = tf.keras.models.Sequential([tf.keras.layers.Flatten(), 
+                                    tf.keras.layers.Dense(128, activation=tf.nn.relu), 
+                                    tf.keras.layers.Dense(10, activation=tf.nn.softmax)])
+
+model.compile(optimizer = tf.train.AdamOptimizer(),
+              loss = 'sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+model.fit(training_images, training_labels, epochs=5)
+
+model.evaluate(test_images, test_labels)
+```
+
+- `classifications = model.predict(test_images)` ==> classifications[0] is a N probabilities array (for N labelled classes), each ones are the proba that the input match the i-th class
+- What's the impact if increase to 1024 Neurons? ==> Training takes longer, but is more accurate
+- What would happen if you remove the Flatten() layer. Why do you think that's the case? ==> error as input layer dimension different then inputs dimension
+- Consider the final (output) layers. Why are there 10 of them? What would happen if you had a different amount than 10? For example 5? ==> error as different than class count
+- Consider the effects of additional layers in the network. What will happen if you add another layer between the one with 512 and the final layer with 10? ==> no impact as simple data 
+- Consider the impact of training for more or less epochs. Why do you think that would be the case? ==> better loss, mode times
+- Before you trained, you normalized the data, going from values that were 0-255 to values that were 0-1. What would be the impact of removing that? ==> Bad loss
+- Trained for extra epochs might have taken a bit of time but for what? (if 95% accuracy after 3 epochs is enough why wait for more epochs ? How would you fix that? ==> callbacks
+
 
 ## See also
 

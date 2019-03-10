@@ -8,6 +8,10 @@ categories_: jekyll update
 
 In [deep learning](deep-learning.html), each iteration through the complete training set is called an __epoch__. 
 
-See also:
+Too many epochs can raise [overfitting](overfitting.html).
+
+
+## See also
+
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)

@@ -15,3 +15,12 @@ categories: tool
 
 __Keras__ provides a set of the most frequently-used types of [neural-network](neural-network.html) [layers](layer.html), 
 each with configurable parameters.
+
+## Datasets
+
+The framework includes some datasets as [MNIST](mnist.html):
+
+```py
+fashion_mnist = keras.datasets.fashion_mnist
+(train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
+```

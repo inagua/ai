@@ -14,3 +14,17 @@ A subfield of artificial intelligence (AI) that:
 Machine Learning is a system that learns from __examples__ and __experiences__.
 
 It differs from classical programming in that no handcrafting of the rules is involved.
+
+
+## Datasets
+
+The learning is based on a set of data, called the __training set__.
+
+But, once the training is done, it is important to check the accuracy of the learning. For that the algorithm should be played on a new set of data: the __test set__.
+
+
+## Bias and techniques
+
+It is better to label with number rather than text (that depends on a given language).
+
+- [Machine Learning Fairness | Google Developers](https://developers.google.com/machine-learning/fairness-overview/)

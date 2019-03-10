@@ -12,7 +12,9 @@
 - [Machine learning](/ai/glossary/machine-learning.html)
 - [MNIST](/ai/glossary/mnist.html) 
 - [Neural network](/ai/glossary/neural-network.html)
+- [Normalize](glossary/normalize.html)
 - [Optimizer](/ai/glossary/optimizer.html)
+- [Overfitting](glossary/overfitting.html)
 
 
 ## Tools
