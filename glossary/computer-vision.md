@@ -7,14 +7,27 @@ categories_: jekyll update
 
 # {{ page.title }}
 
-As an important part of [machine learning](machine-learning.html), it is the study of how computers can __understand images and videos__.
-Computer vision is the field of having a computer understand and label what is present in an image.
+Computer vision, an important part of [machine learning](machine-learning.html), is the study of how computers can __understand images and videos__.
+It is the field of having a computer understand and label what is present in an image.
  
 Common computer-vision tasks include:
 - image recognition, 
 - segmentation, 
 - captioning, 
 - and object detection.
+
+
+## Breadcrumb
+
+- [Artificial intelligence](artificial-intelligence.html)
+  - [Machine Learning](machine-learning.html)
+    - [Deep learning](deep-learning.html)
+    - [Neural network](neural-network.html)
+    - [Computer vision](computer-vision.html)
+        - image recognition, 
+        - segmentation, 
+        - captioning, 
+        - and object detection.
 
 
 # See also

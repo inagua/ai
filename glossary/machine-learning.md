@@ -16,6 +16,19 @@ Machine Learning is a system that learns from __examples__ and __experiences__.
 It differs from classical programming in that no handcrafting of the rules is involved.
 
 
+## Breadcrumb
+
+- [Artificial intelligence](artificial-intelligence.html)
+  - [Machine Learning](machine-learning.html)
+    - [Deep learning](deep-learning.html)
+    - [Neural network](neural-network.html)
+    - [Computer vision](computer-vision.html)
+        - image recognition, 
+        - segmentation, 
+        - captioning, 
+        - and object detection.
+
+
 ## Datasets
 
 The learning is based on a set of data, called the __training set__.

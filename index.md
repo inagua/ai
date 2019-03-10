@@ -17,6 +17,19 @@
 - [Overfitting](glossary/overfitting.html)
 
 
+## Breadcrumb
+
+- [Artificial intelligence](artificial-intelligence.html)
+  - [Machine Learning](machine-learning.html)
+    - [Deep learning](deep-learning.html)
+    - [Neural network](neural-network.html)
+    - [Computer vision](computer-vision.html)
+        - image recognition, 
+        - segmentation, 
+        - captioning, 
+        - and object detection.
+
+
 ## Tools
 
 - [Google Colaboratory](glossary/google-colaboratory.html)
