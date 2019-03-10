@@ -9,7 +9,7 @@ categories_: jekyll update
 In [neural networks](neural-network.html), the __Loss function__ measures the guessed answers against the known correct answers 
 and measures how well or how badly it did.
 
-It is used with the [Optimizer](optimizer.html) 
+It is used with the [Optimizer](optimizer.html) .
 
 The neural network will repeat this for the number of [epochs](epoch.html). 
 
