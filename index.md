@@ -15,6 +15,7 @@
 - [Normalize](glossary/normalize.html)
 - [Optimizer](glossary/optimizer.html)
 - [Overfitting](glossary/overfitting.html)
+- [Tensor](glossary/tensor.html)
 
 
 ## Breadcrumb

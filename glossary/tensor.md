@@ -19,4 +19,10 @@ For instance:
 Each tensor instance holds only one type of element. They are designed this way because it allows for convenient, highly efficient implementations of common operations 
 necessary for [deep learning](deep-learning.html) (for instance, matrix dot- products).
 
+
+## See also
+
+- [Layer](layer.html) 
+
+
 [< Home](..)
