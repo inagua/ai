@@ -11,6 +11,7 @@
 - [Loss function](glossary/loss.html) 
 - [Machine learning](glossary/machine-learning.html)
 - [MNIST](glossary/mnist.html) 
+- [Model](glossary/model.html) 
 - [Neural network](glossary/neural-network.html)
 - [Normalize](glossary/normalize.html)
 - [Optimizer](glossary/optimizer.html)

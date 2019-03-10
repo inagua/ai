@@ -30,7 +30,8 @@ transformations to solve machine-learning problems.)
 ## See also
 
 - [Epoch](epoch.html) 
-- [Loss function](loss.html) 
+- [Loss function](loss.html)
+- [Model](model.html) 
 - [Optimizer](optimizer.html)
 
 [< Home](..)

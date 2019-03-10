@@ -42,4 +42,10 @@ It is better to label with number rather than text (that depends on a given lang
 
 - [Machine Learning Fairness | Google Developers](https://developers.google.com/machine-learning/fairness-overview/)
 
+
+## See also
+
+- [Model](model.html) 
+
+
 [< Home](..)

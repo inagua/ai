@@ -35,6 +35,8 @@ See sample of code using [TensorFlow](tensorflow.html).
 
 - [Epoch](epoch.html) 
 - [Loss function](loss.html) 
+- [Model](model.html) 
 - [Optimizer](optimizer.html)
+
 
 [< Home](..)
