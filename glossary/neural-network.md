@@ -19,8 +19,10 @@ See sample of code using [TensorFlow](tensorflow.html).
 - [(246) Neural Network Overview (C1W3L01) - YouTube](https://www.youtube.com/watch?v=fXOsFF95ifk&feature=youtu.be) with one hidden layer
 
 
-See also:
+## See also
+
 - [Epoch](epoch.html) 
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)
-- [Normalize](normalize.html)
+
+[< Home](..)

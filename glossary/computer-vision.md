@@ -17,3 +17,5 @@ Computer vision is the field of having a computer understand and label what is p
 # See also
 
 - [MNIST](mnist.html) - _Modified National Institute of Standards and Technology_ database
+
+[< Home](..)

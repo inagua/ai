@@ -14,3 +14,5 @@ It is used with the [Optimizer](optimizer.html)
 The neural network will repeat this for the number of [epochs](epoch.html). 
 
 An example of Loss function is the 'Mean Squared Error'.
+
+[< Home](..)

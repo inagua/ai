@@ -13,4 +13,4 @@ are overfit.
 
 That can occur when there are too many [epochs](epoch.html) during the training.
 
-[Home](..)
+[< Home](..)

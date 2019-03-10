@@ -15,3 +15,5 @@ Rules of thumb:
   - In Python with [TensorFlow](tensorflow.html) you can use the method `tf.keras.layers.Flatten()` to convert a MxN-resolution image into a (MxN)x1 input layer)
 - the number of neurons in the last layer should match the number of classes you are classifying for
 - if the input data are simple, additional layers there isn't a significant impact 
+
+[< Home](..)

@@ -13,7 +13,10 @@ from the image as the features. This is mainly possible because the classifier u
 The study and application of deep [neural networks](/ai/glossary/neural-network.html) (i.e., using a large number of successive representational 
 transformations to solve machine-learning problems.)
 
-See also:
+## See also
+
 - [Epoch](epoch.html) 
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)
+
+[< Home](..)

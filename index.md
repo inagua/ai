@@ -2,23 +2,23 @@
 
 ## Glossary
 
-- [Classifier](/ai/glossary/classifier.html)
-- [Computer vision](/ai/glossary/computer-vision.html)
-- [Deep learning](/ai/glossary/deep-learning.html)
-- [Epoch](/ai/glossary/epoch.html) 
-- [Inception](/ai/glossary/inception.html)
-- [Layer](/ai/glossary/layer.html)
-- [Loss function](/ai/glossary/loss.html) 
-- [Machine learning](/ai/glossary/machine-learning.html)
-- [MNIST](/ai/glossary/mnist.html) 
-- [Neural network](/ai/glossary/neural-network.html)
+- [Classifier](glossary/classifier.html)
+- [Computer vision](glossary/computer-vision.html)
+- [Deep learning](glossary/deep-learning.html)
+- [Epoch](glossary/epoch.html) 
+- [Inception](glossary/inception.html)
+- [Layer](glossary/layer.html)
+- [Loss function](glossary/loss.html) 
+- [Machine learning](glossary/machine-learning.html)
+- [MNIST](glossary/mnist.html) 
+- [Neural network](glossary/neural-network.html)
 - [Normalize](glossary/normalize.html)
-- [Optimizer](/ai/glossary/optimizer.html)
+- [Optimizer](glossary/optimizer.html)
 - [Overfitting](glossary/overfitting.html)
 
 
 ## Tools
 
 - [Google Colaboratory](glossary/google-colaboratory.html)
-- [Keras](/ai/glossary/keras.html)
-- [TensorFlow](/ai/glossary/tensorflow.html)
+- [Keras](glossary/keras.html)
+- [TensorFlow](glossary/tensorflow.html)

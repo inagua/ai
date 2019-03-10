@@ -109,3 +109,5 @@ model.evaluate(test_images, test_labels)
 - [Epoch](epoch.html) 
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)
+
+[< Home](..)

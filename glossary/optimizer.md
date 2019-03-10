@@ -11,3 +11,5 @@ A function to make another guess in [neural network](neural-network.html). Based
 The neural network will repeat this for the number of [epochs](epoch.html). 
 
 An example of Optimizer is the 'Stochastic Gradient Descent'.
+
+[< Home](..)

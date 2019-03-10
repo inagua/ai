@@ -29,3 +29,5 @@ fashion_mnist = keras.datasets.fashion_mnist
 ### See also
 
 - [Normalizing](normalize.html) 
+
+[< Home](..)

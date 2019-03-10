@@ -15,3 +15,5 @@ Too many epochs can raise [overfitting](overfitting.html).
 
 - [Loss function](loss.html) 
 - [Optimizer](optimizer.html)
+
+[< Home](..)

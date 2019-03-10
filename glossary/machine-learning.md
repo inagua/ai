@@ -28,3 +28,5 @@ But, once the training is done, it is important to check the accuracy of the lea
 It is better to label with number rather than text (that depends on a given language).
 
 - [Machine Learning Fairness | Google Developers](https://developers.google.com/machine-learning/fairness-overview/)
+
+[< Home](..)
