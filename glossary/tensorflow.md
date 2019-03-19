@@ -104,6 +104,29 @@ model.evaluate(test_images, test_labels)
 - Trained for extra epochs might have taken a bit of time but for what? (if 95% accuracy after 3 epochs is enough why wait for more epochs ? How would you fix that? ==> callbacks
 
 
+### Callback to stop training
+
+Called a the end of each epoch (each epoch is fully played):
+
+```py
+
+class myCallback(tf.keras.callbacks.Callback):
+  def on_epoch_end(self, epoch, logs={}):
+    if(logs.get('acc')>0.6):
+      print("\nReached 60% accuracy so cancelling training!")
+      self.model.stop_training = True
+
+callbacks = myCallback()
+
+...
+
+# model.fit(training_images, training_labels, epochs=5)
+model.fit(training_images, training_labels, epochs=5, callbacks=[callbacks])
+
+```
+
+
+
 ## See also
 
 - [Epoch](epoch.html) 
