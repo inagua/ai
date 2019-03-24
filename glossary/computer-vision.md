@@ -22,7 +22,8 @@ Common computer-vision tasks include:
 - [Artificial intelligence](artificial-intelligence.html)
   - [Machine Learning](machine-learning.html)
     - [Neural network](neural-network.html)
-        - [Deep learning](deep-learning.html)
+      - [Deep learning](deep-learning.html)
+        - [Convolutional Neural Network](convolution.html)
     - [Computer vision](computer-vision.html)
         - image recognition, 
         - segmentation, 
