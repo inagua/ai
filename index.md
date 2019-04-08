@@ -4,6 +4,7 @@
 
 - [Classifier](glossary/classifier.html)
 - [Computer vision](glossary/computer-vision.html)
+- [Convolution Neural Network](glossary/convolution.html)
 - [Deep learning](glossary/deep-learning.html)
 - [Epoch](glossary/epoch.html) 
 - [Inception](glossary/inception.html)
@@ -16,7 +17,10 @@
 - [Normalize](glossary/normalize.html)
 - [Optimizer](glossary/optimizer.html)
 - [Overfitting](glossary/overfitting.html)
+- [Pooling](glossary/pooling.html)
 - [Tensor](glossary/tensor.html)
+- [Training](glossary/training.html)
+- [Weight](glossary/weight.html)
 
 
 ## Breadcrumb
